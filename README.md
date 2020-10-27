@@ -5,6 +5,7 @@
 #### Laser cutting notes:
 - Red lines should be cut
 - Green areas should be area engraved
+- There are no cutouts for the screen or LEDs so a transparent material should be used
 
 #### Preview:
 ![panel](/O-R.png)
